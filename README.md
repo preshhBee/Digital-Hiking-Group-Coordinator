@@ -1,0 +1,2 @@
+# Digital Hiking Group Coordinator
+
